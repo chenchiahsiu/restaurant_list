@@ -13,7 +13,7 @@ type the name or category of the restaurants in search bar
 - Node.js
 
 ## Installation and execution
-1. Open terminal to clone this project.
+1. Open terminal and clone this project.
 ```
 git clone https://github.com/chenchiahsiu/restaurant_list.git
 ```
